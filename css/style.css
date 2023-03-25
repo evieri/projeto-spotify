@@ -109,6 +109,10 @@ nav.navbar-transparente {
     color: black;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    width: 5%;
+}
+
 #home h1 {
     font-weight: 900;
     color: white;
